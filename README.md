@@ -1,1 +1,1 @@
-# Moj wlasciwy repositorium 
+# Moj wlasciwy repozytorium 
