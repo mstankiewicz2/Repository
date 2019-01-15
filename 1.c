@@ -1,3 +1,4 @@
+Modyfikacja pliku przeszla bez zagrozen!!!
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
